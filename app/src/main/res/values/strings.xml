@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">prueba2_josue_cordova</string>
     <!-- Strings related to login -->
+    <string name="username">Email</string>
+    <string name="password">Password</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
@@ -9,4 +11,27 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+
+
+    <string name="button_erase">Borrar Imagen</string>
+    <string name="button_set_color">Escoger Color</string>
+    <string name="button_set_line_width">Ancho de línea</string>
+    <string name="line_imageview_description">Grosor de la línea</string>
+    <string name="label_alpha">Principal</string>
+    <string name="label_red">Rojo</string>
+    <string name="label_green">Verde</string>
+    <string name="label_blue">Azul</string>
+    <string name="menuitem_delete">Borrar Lienzo</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_line_width">Ancho de línea</string>
+    <string name="menuitem_save">Guardar</string>
+    <string name="menuitem_print">Imprimir</string>
+    <string name="message_erase">Desea borrar el lienzo?</string>
+    <string name="message_error_saving">Hubo un error al eliminar la imagen</string>
+    <string name="message_saved"> Tu imagen guardada puede ser visualizada en la aplicacion de Fotos</string>
+    <string name="message_error_printing">Tu dispositivo no soporta la opcion de imprimir</string>
+    <string name="title_color_dialog">Escoge el color</string>
+    <string name="title_background_color_dialog">Escoge el color de fondo</string>
+    <string name="title_line_width_dialog">Escoge el ancho de línea</string>
+    <string name="permission_explanation">Para guardar la imagen, la aplicacion requiere de permisos para guardar en el almacenamiento externo</string>
 </resources>
